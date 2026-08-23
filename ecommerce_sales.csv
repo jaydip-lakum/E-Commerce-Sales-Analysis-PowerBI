@@ -1,0 +1,25 @@
+OrderID,OrderDate,CustomerID,Region,Category,Product,Sales,Quantity,Discount,Cost,Profit,PaymentMode
+ORD001,2025-01-05,C001,West,Electronics,Wireless Mouse,1200,2,0.05,800,340,UPI
+ORD002,2025-01-08,C002,South,Furniture,Office Chair,8500,1,0.10,6200,1450,Credit Card
+ORD003,2025-01-15,C003,North,Clothing,T-Shirt,900,3,0.00,450,450,Cash
+ORD004,2025-02-02,C004,East,Electronics,Keyboard,2200,2,0.05,1400,690,Debit Card
+ORD005,2025-02-10,C005,West,Clothing,Jeans,2500,2,0.10,1600,650,UPI
+ORD006,2025-02-18,C006,South,Home Decor,Wall Clock,1800,1,0.00,1000,800,Credit Card
+ORD007,2025-03-03,C007,North,Electronics,Bluetooth Speaker,4500,1,0.15,3000,825,UPI
+ORD008,2025-03-12,C008,East,Furniture,Study Table,12000,1,0.05,8500,2900,Debit Card
+ORD009,2025-03-25,C009,West,Clothing,Jacket,4000,1,0.10,2600,1000,Cash
+ORD010,2025-04-01,C010,South,Electronics,Smart Watch,7500,1,0.08,5000,1900,Credit Card
+ORD011,2025-04-11,C011,North,Home Decor,Lamp,2200,2,0.00,1200,1000,UPI
+ORD012,2025-04-20,C012,East,Clothing,Shoes,3500,1,0.05,2300,1025,Debit Card
+ORD013,2025-05-05,C013,West,Furniture,Bookshelf,7000,1,0.12,5200,960,Credit Card
+ORD014,2025-05-14,C014,South,Electronics,Headphones,3200,2,0.05,2100,940,UPI
+ORD015,2025-05-27,C015,North,Clothing,Formal Shirt,1800,2,0.00,1000,800,Cash
+ORD016,2025-06-04,C016,East,Home Decor,Curtains,2800,2,0.10,1700,820,Debit Card
+ORD017,2025-06-16,C017,West,Electronics,Tablet,18000,1,0.07,13500,3240,Credit Card
+ORD018,2025-06-25,C018,South,Furniture,Sofa Chair,15000,1,0.10,11000,2500,UPI
+ORD019,2025-07-08,C019,North,Electronics,Power Bank,1600,2,0.00,900,700,Debit Card
+ORD020,2025-07-19,C020,East,Clothing,Ethnic Wear,4200,1,0.15,2800,770,Cash
+ORD021,2025-08-03,C021,West,Home Decor,Carpet,6500,1,0.05,4200,1975,Credit Card
+ORD022,2025-08-13,C022,South,Electronics,Laptop Stand,2500,2,0.00,1400,1100,UPI
+ORD023,2025-08-21,C023,North,Furniture,Computer Desk,10500,1,0.08,7600,2060,Debit Card
+ORD024,2025-08-30,C024,East,Clothing,Hoodie,3000,2,0.10,1900,800,Credit Card
