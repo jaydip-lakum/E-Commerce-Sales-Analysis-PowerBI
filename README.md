@@ -1,5 +1,8 @@
 #  E-Commerce Sales Performance Dashboard
 
+**Live Dashboard / Snapshot:**
+![Dashboard Preview](https://github.com/jaydip-lakum/E-Commerce-Sales-Analysis-PowerBI/blob/main/E-Commerce_Sales_Dashboard.jpg)
+
 ##  Project Overview
 An interactive Power BI dashboard designed to analyze e-commerce sales performance. This project transforms raw transaction data into actionable business insights, helping stakeholders track revenue trends, profitability, and regional growth.
 
